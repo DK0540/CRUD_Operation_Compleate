@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "vishwa",
+      "username": "vishwanaik",
+      "email": "vishwanathnaik29@gmail.com",
+      "phone": "1234567895",
+      "website": "hhnnbbh",
+      "id": 13
+    },
+    {
+      "name": "VISHWANATHA B NAIK",
+      "username": "vishwanathnaik29",
+      "email": "kd@gmail.com",
+      "phone": "2345678900",
+      "website": "mmmnnn",
+      "id": 18
+    },
+    {
+      "name": "vbggghg",
+      "username": "gggggg",
+      "email": "ttrrttt@gmail.com",
+      "phone": "ddfgtgh",
+      "website": "ffdderdff",
+      "id": 21
+    },
+    {
+      "name": "VISHWANATHA B NAIK",
+      "username": "vishwanathnaik29@gmail.com",
+      "email": "vishwanathnaik29@gmail.com",
+      "phone": "1234567895",
+      "website": "google",
+      "id": 26
+    }
+  ]
+}
